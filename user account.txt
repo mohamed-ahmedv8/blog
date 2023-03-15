@@ -1,0 +1,4 @@
+email : mohamed@gmail.com
+password : admin
+
+This site was created by Mohamed Ahmed.
